@@ -1,7 +1,13 @@
-admin
-username:admin
-password:12345678
+Aplikasi Perpus Digital
 
-user
-username:yaya
-password:yaya123
+Login Admin
+
+Field	Isi
+Username	admin
+Password	12345678
+
+Login Pengguna
+
+Field	Isi
+Username	yaya
+Password	yaya123
